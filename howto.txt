@@ -1,0 +1,7 @@
+Prérequis : Java JDK (version supérieure à 10, la version JDK utilisée en codant était la 14.0.2)
+
+Comment lancer le programme :
+	1) Ouvrir un terminal
+	2) Se rendre dans le sous-dossier /bin du projet
+	3) Toujours dans le /bin, exécuter la commande suivante : java TraceAnalyzer.Main
+	4) Le programme démarre immédiatement, il n'y a plus qu'à suivre les indications affichées sur le terminal
