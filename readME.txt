@@ -1,3 +1,5 @@
+Projet d'implémentation d'un analyseur de trace type Wireshark dans le cadre d'une UE de Réseaux à la Sorbonne Université.
+
 Structure du code :
 
 	Package TraceAnalyzer :
